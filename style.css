@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Patua One";
+    src: url(fonts/Patua\ One\ Regular.ttf);
+}
+@font-face {
+    font-family: "Rock Salt";
+    src: url(fonts/Rock\ Salt\ Regular.ttf);
+}
+* {
+    cursor: url(gam1040.cur), auto !important;
+}
+body {
+    color: #3D3839;
+    font-family: "Rock Salt";
+}
+h1 {
+    color: #FFC604;
+    font-family: "Patua One";
+}
+h3 {
+    color: #ccc;
+}
+button {
+    pointer-events: none;
+    background-color: #FFC604;
+    color: #3D3839;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+<style type="text/css">* {cursor: url(https://cur.cursors-4u.net/games/gam-11/gam1040.cur), auto !important;}</style><a href="https://www.cursors-4u.com/cursor/2009/11/30/call-of-duty-4-modern-warfare-4th-prestige.html" target="_blank" title="Call of Duty 4: Modern Warfare 4th Prestige"><img src="https://cur.cursors-4u.net/cursor.png" border="0" alt="Call of Duty 4: Modern Warfare 4th Prestige" style="position:absolute; top: 0px; right: 0px;" /></a>
